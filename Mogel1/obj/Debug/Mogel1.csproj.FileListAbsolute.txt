@@ -1,0 +1,6 @@
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\Mogel1\bin\Debug\Mogel1.exe.config
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\Mogel1\bin\Debug\Mogel1.exe
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\Mogel1\bin\Debug\Mogel1.pdb
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\Mogel1\obj\Debug\Mogel1.csprojResolveAssemblyReference.cache
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\Mogel1\obj\Debug\Mogel1.exe
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\Mogel1\obj\Debug\Mogel1.pdb

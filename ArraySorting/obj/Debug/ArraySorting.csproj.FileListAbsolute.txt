@@ -1,0 +1,6 @@
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\ArraySorting\bin\Debug\ArraySorting.exe.config
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\ArraySorting\bin\Debug\ArraySorting.exe
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\ArraySorting\bin\Debug\ArraySorting.pdb
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\ArraySorting\obj\Debug\ArraySorting.csprojResolveAssemblyReference.cache
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\ArraySorting\obj\Debug\ArraySorting.exe
+D:\Maddy7\Мои документы\Visual Studio 2013\Projects\SamplesFromBook\ArraySorting\obj\Debug\ArraySorting.pdb
